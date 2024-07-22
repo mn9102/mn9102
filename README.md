@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning about Self-driving labs
+🌱 I’m currently learning about Self-driving labs at the Acceleration Consortium.
 
 <!--
 **mn9102/mn9102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
